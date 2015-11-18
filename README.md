@@ -1,2 +1,0 @@
-# planets
-for practice
